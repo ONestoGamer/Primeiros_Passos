@@ -1,6 +1,6 @@
 
 # Praticando
-Repositório para armazenar alguns projetos e atividades propostas nos cursos de Ciência da Computação pela UESA ([Universidade Estácio de Sá](https://estacio.br)).
+Repositório para armazenar alguns projetos realizados através da graduação em Ciência da Computação pela UESA ([Universidade Estácio de Sá](https://estacio.br)).
 
 ## 📚 Disciplinas Cursadas (até o momento)
 - Introdução à Programação de Computadores
